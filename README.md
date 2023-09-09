@@ -46,7 +46,6 @@ Position_Salaries.csv: The dataset used for training and testing.
 1) Clone this repository to your local machine:
    ``` bash
    git clone https://github.com/Ahmad1015/Polynomial-Regression-in-Python.git
-  ``
 2) Navigate to the project directory:
 ``` bash
 cd polynomial-regression-in-Python
